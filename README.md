@@ -4,7 +4,7 @@ Pepito uno
 Juanita uno
 Pepito dos
 seno
-
+coseno
 
 
 
